@@ -1,0 +1,11 @@
+.nav__logo {
+  color: red;
+  line-height: 3rem;
+}
+.nav {
+  background: transparent;
+}
+.nav_black {
+  background: transparent;
+  transition: all 0.5s;
+}
